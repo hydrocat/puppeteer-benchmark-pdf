@@ -1,0 +1,30 @@
+{
+  "name": "puppeteer-benchmark-pdf",
+  "version": "1.0.0",
+  "description": "test puppeteer pdf-generation skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hydrocat/puppeteer-benchmark-pdf.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "benchmark",
+    "pdf",
+    "nodejs"
+  ],
+  "author": "Hydrocat",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hydrocat/puppeteer-benchmark-pdf/issues"
+  },
+  "homepage": "https://github.com/hydrocat/puppeteer-benchmark-pdf#readme",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "puppeteer": "^1.9.0",
+    "tmp": "0.0.33"
+  }
+}
